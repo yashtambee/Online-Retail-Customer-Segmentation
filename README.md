@@ -1,4 +1,5 @@
 # Online Retail Store Customer Segmentation
+![pexels-cottonbro-studio-5076511](https://github.com/yashtambee/Online-Retail-Customer-Segmentation/assets/121399834/382d3c3b-e510-4e5a-b8ff-3dd0cff8d1f7)
 
 This project aims to segment the customers of an online retail store based on their purchase history, demographics, and other relevant data. Customer segmentation is a crucial aspect of marketing strategy as it helps to identify the different groups of customers with similar characteristics and behaviors, which can be targeted with specific marketing campaigns to increase sales and customer satisfaction.
 
